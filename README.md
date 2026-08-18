@@ -49,7 +49,25 @@ Contém exemplos de consultas SQL utilizando:
 - WHERE;
 - INNER JOIN;
 - relacionamento entre tabelas.
+### 04_atualizacao_exclusao.sql
 
+Contém exemplos de:
+
+- UPDATE;
+- DELETE;
+- alteração de dados;
+- exclusão de registros com condição WHERE.
+
+### 05_consultas_avancadas.sql
+
+Contém exemplos de consultas utilizando:
+
+- ORDER BY;
+- COUNT;
+- GROUP BY;
+- LEFT JOIN;
+- INNER JOIN;
+- ordenação e agrupamento de resultados.
 ## Conceitos praticados
 
 Neste projeto foram praticados conceitos como:
@@ -63,7 +81,14 @@ Neste projeto foram praticados conceitos como:
 - consultas SQL;
 - filtros;
 - JOIN.
-
+- atualização de dados;
+- exclusão de registros;
+- ORDER BY;
+- COUNT;
+- GROUP BY;
+- LEFT JOIN;
+- funções de agregação;
+- agrupamento de resultados.
 ## Tecnologia utilizada
 
 - MySQL
